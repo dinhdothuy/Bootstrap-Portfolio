@@ -1,0 +1,19 @@
+
+ img {
+  width: 100%; 
+  height: 100%
+ }
+
+ .thumbnail {
+  position: relative;
+}
+
+.intro-content {
+  background: #4aaaa5;
+  position: absolute;
+  top: 60%;
+  left: 0;
+  width: 100%;
+  color: white;
+  line-height: 350%;
+}
